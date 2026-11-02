@@ -3,7 +3,7 @@
 Muse skill: take an eMAG marketplace product from the user's images to a
 priced, fully-filled backend **draft**. Part of an eMAG seller-operations
 skill set (siblings:
-[emag-campaign-filler](https://github.com/secondmax/emag-campaign-filler),
+[emag-campaign-filler](../emag-campaign-filler),
 emag-product-label).
 
 ## The three stages

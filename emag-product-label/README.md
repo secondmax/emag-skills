@@ -2,7 +2,7 @@
 
 Muse skill: generate EU-compliant **100x100mm product labels** for eMAG
 marketplace products. Part of an eMAG seller-operations skill set
-(sibling: [emag-campaign-filler](https://github.com/secondmax/emag-campaign-filler)).
+(sibling: [emag-campaign-filler](../emag-campaign-filler)).
 
 Each label contains:
 
