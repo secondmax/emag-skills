@@ -1,0 +1,5 @@
+name: "emag-product-label"
+title: "eMAG Product Label Generator"
+description: "Generate EU-compliant 100x100mm product labels for eMAG marketplace products: vector EAN-13 barcode, CE mark, and a QR code linking to a hosted EU Declaration of Conformity, with trilingual RO/BG/HU text."
+category: "Work and knowledge"
+include_in_prompt: true

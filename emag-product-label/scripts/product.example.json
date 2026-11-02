@@ -1,0 +1,69 @@
+{
+  "declaration": {
+    "legislation": "Regulation (EU) 2023/988 on general product safety (GPSR); Regulation (EC) No 1907/2006 concerning REACH.",
+    "notified_body": "Not applicable.",
+    "place_date": "Beijing, 2026-11-02",
+    "signatory_function": "CEO",
+    "signatory_name": "Lingsui Wang",
+    "standards": "General safety requirement and risk assessment per Regulation (EU) 2023/988 (identified risks: small parts — choking hazard; retractable steel cable — snap-back if released under tension; addressed by label warnings); material requirements per REACH Regulation (EC) No 1907/2006, Annex XVII."
+  },
+  "eu_rep": {
+    "address": "17 RUE SAINT-FIACRE, PARIS, France",
+    "email": "eu@feimaoqifu.com",
+    "name": "RENJUN PROFESSIONAL COMPLY FINANCE AND TAX, LTD",
+    "tel": "+33 773190609"
+  },
+  "manufacturer": {
+    "address": "Building 214, Mofang Beili, Jinsong Street, Chaoyang, Beijing, China",
+    "email": "xiguangwanguo@foxmail.com",
+    "name": "Beijing Xiguang Wanguo Trading Co., Ltd."
+  },
+  "product": {
+    "declaration_desc": "Retractable keychain with U-shaped carabiner — <i>Breloc retractabil cu carabinieră tip U, șnur din oțel 60 cm</i> — plastic housing, steel cable (max. extension 60 cm), metal split ring; two colour variants: Negru (black), Roz (pink).",
+    "material": {
+      "bg": "Пластмасов корпус, стоманено въже",
+      "hu": "Műanyag ház, acélkábel",
+      "ro": "Carcasă din plastic, cablu din oțel"
+    },
+    "name": {
+      "bg": "Прибиращ се ключодържател с U-карабинер",
+      "hu": "Visszahúzható kulcstartó U-karabinerral",
+      "ro": "Breloc retractabil cu carabinieră tip U"
+    },
+    "safety": {
+      "bg": "Избягвайте претоварване (максимално тегло: 500g). Не разтягайте въжето над 60 cm.",
+      "hu": "Kerülje a túlterhelést (maximális súly: 500g). Ne húzza a zsinórt 60 cm-nél tovább.",
+      "ro": "Evitați supraîncărcarea (greutate maximă: 500g). Nu întindeți șnurul dincolo de 60 cm."
+    },
+    "usage": {
+      "bg": "Ежедневна употреба, дейности на открито",
+      "hu": "Mindennapi viselet, szabadtéri tevékenység",
+      "ro": "Purtare cotidiană, activități în aer liber"
+    }
+  },
+  "variants": [
+    {
+      "color": {
+        "bg": "Черен",
+        "en": "black",
+        "hu": "Fekete",
+        "ro": "Negru"
+      },
+      "ean": "8712111373349",
+      "output": "label-black-100x100.pdf",
+      "seller_ref": "RockRiver2025"
+    },
+    {
+      "color": {
+        "bg": "Розов",
+        "en": "pink",
+        "hu": "Rózsaszín",
+        "ro": "Roz"
+      },
+      "ean": "8712111373356",
+      "output": "label-pink-100x100.pdf",
+      "seller_ref": "RockRiver2026"
+    }
+  ],
+  "food_contact": false
+}
