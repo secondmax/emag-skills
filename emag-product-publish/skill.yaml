@@ -1,0 +1,5 @@
+name: "emag-product-publish"
+title: "eMAG Product Publishing"
+description: "Take a product from the user's images to a priced eMAG Marketplace draft: localize images to Romanian and host them, write the Romanian listing, and create the backend product (draft only, never submitted)."
+category: "Work and knowledge"
+include_in_prompt: true
